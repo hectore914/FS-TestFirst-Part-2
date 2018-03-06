@@ -1,11 +1,13 @@
-##TestFirst JavaScript Overview   
+# Workshop from Fullstack Code of Academy
+
+##TestFirst JavaScript Overview
 
 
 ## Assignment
 
 To get a great overview of what TestFirst learning and development is all about, rewatch the TestFirst Overview [video](https://learn.fullstackacademy.com/workshop/579658857915ac0300e38db9/content/57ade1d95d2a240300461b6c/text).
 
-For an introduction to Test-Driven Development, read the first three sections of [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) ("What is Test-Driven Development?", "How does it work?", and "Great, but how is this better than regular testing?")   
+For an introduction to Test-Driven Development, read the first three sections of [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) ("What is Test-Driven Development?", "How does it work?", and "Great, but how is this better than regular testing?")
 
 Let's warm up by learning to read tests and write code to match a test's expectations. Read more about the philosophy of Test-First Learning at [TestFirst.org](http://testfirst.org/about#whytestfirstteaching).
 
